@@ -21,4 +21,22 @@ about the product without any restrictions and it reaches the maximum people.
 * Used as a tool to express false opinions against competitor’s product.
 * Fake Reviews - mislead the consumers and it affects the product reputation.
 
+#Dataset
+* Adapted from Salminen, Joni, et al. "Creating and detecting fake reviews of online products." Journal of Retailing and Consumer Services 64 (2022): 102771.
+* Key Fields in the dataset 
+---------------------------------------------------------
+|       Fields  |    Description                         |
+| ------------- | ---------------------------------------|
+| Category      | Books, Kitchen, Electronics            |
+| Label         | CG (Computer Generated), OR (Original  |
+| Rating        | Rating for the product (1 to 5 (high)  | 
+----------------------------------------------------------
 
+#OneAPI Learnings:
+Hands-on 
+* OneAPI devcloud - using Jupyterlab integrated with oneAPI kernel for python development.
+* Sklearnex patching techniques - provides acceleration using familiar scikit-learn package for machine learning frameworks.
+* Python daal4py API - that provides abstract to oneDAL.
+Good to know about
+* Modin pandas - for accelerating distributed dataframe using existing pandas framework.
+* Neural compressor - for model compression using quantization for deployment benefits.
