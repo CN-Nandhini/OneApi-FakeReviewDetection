@@ -1,6 +1,6 @@
 # Leverage OneAPI to Identify Fake Reviews for e-marketplace using NLP techniques
-###This project is based on Online Intel Hackaton on Open Innovation
-Fake Reviews Identification using machine learning
+### This project is based on Online Intel Hackaton on Open Innovation
+To design a unified framework to implement Fake Reviews Identification using ML and DL accelerations on Intel Hardware
 
 # Features of Intel OneAPI
 * Helps developers in creating high performance applications for HPC, AI and IoT.
@@ -21,7 +21,7 @@ about the product without any restrictions and it reaches the maximum people.
 * Used as a tool to express false opinions against competitor’s product.
 * Fake Reviews - mislead the consumers and it affects the product reputation.
 
-#Dataset
+# Dataset
 * Adapted from Salminen, Joni, et al. "Creating and detecting fake reviews of online products." Journal of Retailing and Consumer Services 64 (2022): 102771.
 * Key Fields in the dataset 
 ---------------------------------------------------------
@@ -29,14 +29,15 @@ about the product without any restrictions and it reaches the maximum people.
 | ------------- | ---------------------------------------|
 | Category      | Books, Kitchen, Electronics            |
 | Label         | CG (Computer Generated), OR (Original  |
-| Rating        | Rating for the product (1 to 5 (high)  | 
+| Rating        | Rating for the product (1 to 5 (high)  |
+| Review Text   | Review about the product               |
 ----------------------------------------------------------
 
-#OneAPI Learnings:
-Hands-on 
+# OneAPI Learnings:
+## Hands-on 
 * OneAPI devcloud - using Jupyterlab integrated with oneAPI kernel for python development.
 * Sklearnex patching techniques - provides acceleration using familiar scikit-learn package for machine learning frameworks.
 * Python daal4py API - that provides abstract to oneDAL.
-Good to know about
+## Good to know about
 * Modin pandas - for accelerating distributed dataframe using existing pandas framework.
-* Neural compressor - for model compression using quantization for deployment benefits.
+* Neural compressor - for model compression using quantization, speed up the inference for deployment benefits.
