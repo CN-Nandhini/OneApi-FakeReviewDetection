@@ -39,9 +39,9 @@ about the product without any restrictions and it reaches the maximum people.
 ![graph1](https://user-images.githubusercontent.com/126956038/227219087-2bb94e95-c658-41a2-92e8-74489845ffb0.png)
 
 # Technologies Used
- Platform - dev cloud platform
- Tools  - OneAPI, oneDAL, oneDNN
- Libraries - Scikit-learn, numpy, pandas, gensim, nltk, sklearnex, daal4py
+ * Platform - dev cloud platform
+ * Tools  - OneAPI, oneDAL, oneDNN
+ * Libraries - Scikit-learn, numpy, pandas, gensim, nltk, sklearnex, daal4py
  
 # Outcomes and Learnings:
 ## Hands-on 
