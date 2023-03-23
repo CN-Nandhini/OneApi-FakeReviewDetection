@@ -32,6 +32,9 @@ about the product without any restrictions and it reaches the maximum people.
 | Rating        | Rating for the product (1 to 5 (high)  |
 | Review Text   | Review about the product               |
 ----------------------------------------------------------
+# Proposed Methodology
+
+![oneAPI logo 11](https://user-images.githubusercontent.com/126956038/227208516-04ce405a-10cc-4307-b872-b7fdfd9abcfc.jpg)
 
 # OneAPI Learnings:
 ## Hands-on 
