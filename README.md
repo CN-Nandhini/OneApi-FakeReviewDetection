@@ -35,6 +35,9 @@ about the product without any restrictions and it reaches the maximum people.
 # Proposed Methodology
 
 ![oneAPI logo 11](https://user-images.githubusercontent.com/126956038/227208516-04ce405a-10cc-4307-b872-b7fdfd9abcfc.jpg)
+# Results 
+![graph1](https://user-images.githubusercontent.com/126956038/227219087-2bb94e95-c658-41a2-92e8-74489845ffb0.png)
+
 
 # OneAPI Learnings:
 ## Hands-on 
