@@ -22,7 +22,6 @@ about the product without any restrictions and it reaches the maximum people.
 * Fake Reviews - mislead the consumers and it affects the product reputation.
 
 # Dataset
-* Adapted from Salminen, Joni, et al. "Creating and detecting fake reviews of online products." Journal of Retailing and Consumer Services 64 (2022): 102771.
 * Key Fields in the dataset 
 ---------------------------------------------------------
 |       Fields  |    Description                         |
